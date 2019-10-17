@@ -31,5 +31,5 @@ elif favFood == "C":
 print("-----")
 print("Ok", favFood, "lover! Lets get this show on the road!")
 print("-----")
-print("You wake up in your bed to a loud noise. You look around with sleepy vision and sees a sword lying next to you")
+print("You wake up in your bed to a loud noise. You look around with sleepy vision and see a sword lying next to you")
 print("")
